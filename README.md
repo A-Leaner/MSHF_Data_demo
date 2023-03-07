@@ -8,7 +8,7 @@ This repository contains a small segment of $RAW$ dataset used in our study titl
 
 ### Data Overview
 
-The data file can be download [here](), and which contains a small segment of $RAW$ dataset. The data has the following fields:
+The data file can be download [here](https://drive.google.com/file/d/1AxeuKsYbVN5G9VN3uhxT0uq9DozGRu7I/view?usp=share_link), and which contains a small segment of $RAW$ dataset. The data has the following fields:
 
 - /gps: the groundtruth of the data.
 - /imu_data: the imu data.
